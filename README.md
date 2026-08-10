@@ -42,5 +42,5 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Clerio Vision is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Clerio Vision is a development-stage ophthalmic medical device company based in Rochester, New York, commercializing LIRIC (Laser Induced Refractive Index Change) — a non-invasive femtosecond-laser platform, licensed from the University of Rochester's Center for Visual Science, that alters the refractive index of corneal tissue and of polymer optics without cutting or removing material. Its products are lasers, optics and lenses rather than software, and it operates no public developer program, API, SDK or developer portal.
+- https://www.cleriovision.com/
