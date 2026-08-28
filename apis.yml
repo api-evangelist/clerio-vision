@@ -14,6 +14,17 @@ description: 'Clerio Vision is a development-stage ophthalmic medical device com
   optics and lenses rather than software; the company publishes a single-page marketing
   and investor website and operates no public developer program, API, SDK or developer
   portal.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://www.cleriovision.com/Images/CV_logo.jpeg
 url: https://raw.githubusercontent.com/api-evangelist/clerio-vision/refs/heads/main/apis.yml
 x-type: company
